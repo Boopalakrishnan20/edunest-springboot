@@ -314,14 +314,6 @@ The React application will normally be available at:
 ```text
 http://localhost:5173
 ```
-
----
-
-## 📸 Screenshots
-
-### Home Page
-
-![Edunest Home Page](screenshots/HomeEd.png)
 ---
 
 ## 🔮 Future Enhancements
