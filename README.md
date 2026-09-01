@@ -319,7 +319,7 @@ http://localhost:5173
 
 ## 📸 Screenshots
 
-Screenshots of the following application pages can be added here:
+
 
 ### Home Page
 
