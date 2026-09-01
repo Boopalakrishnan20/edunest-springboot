@@ -319,11 +319,9 @@ http://localhost:5173
 
 ## 📸 Screenshots
 
-
-
 ### Home Page
-![Edunest Home Page](Screenshots/HomeEd.png)
 
+![Edunest Home Page](screenshots/HomeEd.png)
 ---
 
 ## 🔮 Future Enhancements
