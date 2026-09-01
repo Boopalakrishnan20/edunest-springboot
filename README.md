@@ -321,16 +321,9 @@ http://localhost:5173
 
 Screenshots of the following application pages can be added here:
 
-* Home Page
-* Login / Registration
-* Course Listing
-* Course Details
-* Course Purchase
-* My Courses
-* Lesson Player
-* Trainer Dashboard
-* Create Course
-* Add Lesson
+### Home Page
+
+![Edunest Home Page](screenshots/HomeEd.png)
 
 ---
 
