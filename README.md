@@ -322,8 +322,7 @@ http://localhost:5173
 
 
 ### Home Page
-
-screenshots/HomeEd.png
+![Edunest Home Page](screenshots/HomeEd.png)
 
 ---
 
