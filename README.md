@@ -97,7 +97,8 @@ The application allows students to browse courses, purchase courses through Razo
 ### Screenshots
 
 ![Edunest Home Page](screenshots/HomeEd.png)
-
+![Edunest Home Page](screenshots/CourseEd.png)
+![Edunest Home Page](screenshots/Payment.png)
 ---
 
 
